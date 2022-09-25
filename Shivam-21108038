@@ -118,7 +118,7 @@ else{
    n3->age=36;
    d.appendnode(n1);
 d.insertnodeafter(20,n2);
-   d.insertnodeafter(40,n3);
+   d.insertnodeafter(45,n3);
    d.print();
 
 	return 0;
